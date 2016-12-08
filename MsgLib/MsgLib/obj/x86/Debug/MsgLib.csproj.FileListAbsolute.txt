@@ -1,0 +1,5 @@
+C:\Documents and Settings\dl1\Мои документы\НИКИТА\старое\ВЛАД\Опись приказов 2014 год\Номенклатура\Projects CS\[Projects] TCP\T6_UdpChat\MsgLib\MsgLib\bin\Debug\MsgLib.dll
+C:\Documents and Settings\dl1\Мои документы\НИКИТА\старое\ВЛАД\Опись приказов 2014 год\Номенклатура\Projects CS\[Projects] TCP\T6_UdpChat\MsgLib\MsgLib\bin\Debug\MsgLib.pdb
+C:\Documents and Settings\dl1\Мои документы\НИКИТА\старое\ВЛАД\Опись приказов 2014 год\Номенклатура\Projects CS\[Projects] TCP\T6_UdpChat\MsgLib\MsgLib\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dl1\Мои документы\НИКИТА\старое\ВЛАД\Опись приказов 2014 год\Номенклатура\Projects CS\[Projects] TCP\T6_UdpChat\MsgLib\MsgLib\obj\x86\Debug\MsgLib.dll
+C:\Documents and Settings\dl1\Мои документы\НИКИТА\старое\ВЛАД\Опись приказов 2014 год\Номенклатура\Projects CS\[Projects] TCP\T6_UdpChat\MsgLib\MsgLib\obj\x86\Debug\MsgLib.pdb

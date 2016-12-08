@@ -1,0 +1,7 @@
+C:\Documents and Settings\dl1\Мои документы\НИКИТА\старое\ВЛАД\Опись приказов 2014 год\Номенклатура\Projects CS\[Projects] TCP\T6_UdpChat\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+C:\Documents and Settings\dl1\Мои документы\НИКИТА\старое\ВЛАД\Опись приказов 2014 год\Номенклатура\Projects CS\[Projects] TCP\T6_UdpChat\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+C:\Documents and Settings\dl1\Мои документы\НИКИТА\старое\ВЛАД\Опись приказов 2014 год\Номенклатура\Projects CS\[Projects] TCP\T6_UdpChat\ChatClient\ChatClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dl1\Мои документы\НИКИТА\старое\ВЛАД\Опись приказов 2014 год\Номенклатура\Projects CS\[Projects] TCP\T6_UdpChat\ChatClient\ChatClient\obj\x86\Debug\ChatClient.exe
+C:\Documents and Settings\dl1\Мои документы\НИКИТА\старое\ВЛАД\Опись приказов 2014 год\Номенклатура\Projects CS\[Projects] TCP\T6_UdpChat\ChatClient\ChatClient\obj\x86\Debug\ChatClient.pdb
+C:\Documents and Settings\dl1\Мои документы\НИКИТА\старое\ВЛАД\Опись приказов 2014 год\Номенклатура\Projects CS\[Projects] TCP\T6_UdpChat\ChatClient\ChatClient\bin\Debug\MsgLib.dll
+C:\Documents and Settings\dl1\Мои документы\НИКИТА\старое\ВЛАД\Опись приказов 2014 год\Номенклатура\Projects CS\[Projects] TCP\T6_UdpChat\ChatClient\ChatClient\bin\Debug\MsgLib.pdb
